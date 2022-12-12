@@ -5,7 +5,7 @@ Simples Clicker Spiel.
 
 1. Linkes Quadrat (Gegner) anklicken
 2. Wiederholen bis HP = 0
-3. Wiederholen bis genug Geld
+3. Wiederholen bis genug Geld (5 pro Schwert)
 4. Rechtes Quadrat (Sword) anklicken um Schaden zu erhöhen
 5. Bei 1. weitermachen.
 
